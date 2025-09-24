@@ -1,0 +1,113 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: orange;
+}
+/*1 страница*/
+.dekstop-1{
+    width: 1440px;
+    height: 1024px;
+    background-image: url("images/fon_on_1.jpg");
+    background-repeat: no-repeat;         /* не повторять */             /* масштабировать, чтобы покрыть весь экран */
+    background-position: center center;   /* центрировать */
+    background-attachment: fixed;        /* фон остаётся на месте при прокрутке */
+}
+
+.iphone{
+    width: 500px;
+    height: 888px;
+    position: relative;
+    left: 865px;
+    bottom: 675px;
+}
+
+.cabel{
+    width: 130px;
+    height: 130px;
+    position: absolute;
+    top:915px;
+    left:1032px;
+}
+
+.words_1{
+    width: 300px;
+    height: 63px;
+    position: relative;
+    top: 690px;
+    left: 100px;
+    font-family: "Istok Web, sans-serif";
+    font-weight: 400;
+    color: white;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.MusicPlayer{
+    width: 412px;
+    height: 264px;
+    position: relative;
+    bottom: 15px;
+    left: 100px;
+    color: white;
+    font-family: "Kenia, sans-serif";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 150px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+/*навигация*/
+.deks_menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.nav_list{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+}
+
+.mp{
+    position: relative;
+    right: 440px;
+    top:10px;
+    font-size: 30px;
+    width: 160px;
+}
+
+.Home{
+    position: relative;
+    right: 200px;
+    top:50px;
+    font-size: 20px;  
+}
+
+.Music{
+    position: relative;
+    right: 100px;
+    top:50px;
+    font-size: 20px;  
+}
+
+.About{
+    position: relative;
+    right: 0px;
+    top:50px;
+    font-size: 20px;  
+}
+
+.Store{
+    position: relative;
+    left: 100px;
+    top:50px;
+    font-size: 20px;  
+}
+
