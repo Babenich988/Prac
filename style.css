@@ -111,3 +111,43 @@ a:hover{
     font-size: 20px;  
 }
 
+/*2 страница*/
+
+/*3 страница*/
+.dekstop-3{
+    width: 1440px;
+    height: 1024px;
+    top: 2048px;
+    background: linear-gradient(to bottom, red , 100px,  black);
+}
+
+.About{
+    position: relative;
+    width: 81px;
+    height: 35px;
+    color: white;
+    top: 53px;
+    left: 70px;
+    font-family: "Karla, sans-serif";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.words_3{
+    position: relative;
+    width: 912px;
+    height: 72px;
+    top: 476px;
+    left: 275px;
+    color: white;
+    font-family: "Karla, sans-serif";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+
