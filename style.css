@@ -112,13 +112,76 @@ a:hover{
 }
 
 /*2 страница*/
+.dekstop-2{
+    width: 1440px;
+    height: 1024px;
+    top: 1024px;
+    background: rgba(213, 48, 5, 1);
+}
+
+.disk{
+    width: 1000px;
+    height: 666.5px;
+    position: relative;
+    top: 15px;
+    left: 440px;
+}
+
+.mus{
+    width: 84px;
+    height: 35px;
+    position: relative;
+    top: 83px;
+    left: 122px;
+    font-family: "Karla, sans-serif";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+}
+
+.listen{
+    width: 382px;
+    height: 83px;
+    position: relative;
+    top: 300px;
+    left: 105px;
+    background: radial-gradient(98.43% 2084.95% at 1.57% 7.83%, #B13E18 0%, #F3501A 100%);
+    font-family: "Karla, sans-serif";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 40px;
+    color: white;
+    line-height: 100%;
+    letter-spacing: 0%;
+    box-shadow: 5px 7px 15px rgba(0, 0, 0, 0.9);
+}
+
+.song{
+    width: 382px;
+    height: 83px;
+    position: relative;
+    top: 460px;
+    right: 279px;
+    background: radial-gradient(98.43% 2084.95% at 1.57% 7.83%, #B13E18 0%, #F3501A 100%);
+    font-family: "Karla, sans-serif";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 40px;
+    color: white;
+    line-height: 100%;
+    letter-spacing: 0%;
+    box-shadow: 5px 7px 15px rgba(0, 0, 0, 0.9);
+}
 
 /*3 страница*/
 .dekstop-3{
     width: 1440px;
     height: 1024px;
     top: 2048px;
-    background: linear-gradient(to bottom, red , 100px,  black);
+    background: linear-gradient(180deg, #D53005 0%, #000000 6.04%);
 }
 
 .About{
@@ -149,5 +212,199 @@ a:hover{
     line-height: 100%;
     letter-spacing: 0%;
 }
+/*4 страница*/
 
+/*5 страница*/
+.dekstop-5{
+    width: 1440px;
+    height: 536px;
+    background: linear-gradient(180deg, #D53005 0%, #000000 4.01%);
+    top: 4096px;
+}
 
+.column_3{
+    width: 256px;
+    height: 108px;
+    position: relative;
+    top: 120px;
+    left: 1122px;
+    padding: 20px;
+    
+}
+
+.column_3_content{
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.column_3_word_1{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    top: 20px;
+}
+
+.column_3_word_2{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    top: 40px;
+}
+
+.column_2{
+    width: 256px;
+    height: 148px;
+    position: relative;
+    bottom: 46px;
+    left: 800px;
+    padding: 20px;
+}
+
+.column_2_content{
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.column_2_word_1{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    top: 20px;
+}
+
+.column_2_word_2{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    top: 40px;
+}
+
+.column_2_word_3{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    top: 60px;
+}
+
+.column_1{
+    width: 256px;
+    height: 148px;
+    position: relative;
+    bottom: 253px;
+    left: 500px;
+    padding: 20px;
+}
+
+.column_1_content{
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.column_1_word_1{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    top: 20px;
+}
+
+.column_1_word_2{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    top: 40px;
+}
+
+.column_1_word_3{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    top: 60px;
+}
+
+.MUSIC{
+    width: 138px;
+    height: 100px;
+    position: relative;
+    color: white;
+    bottom: 250px;
+    left: 110px;
+    font-family: "Kenia";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom:300px;
+    left: 110px;
+    font-size: 15px;
+}
+
+.isp{
+    position: relative;
+    left: 110px;
+    font-size: 15px;
+}
+
+.shop{
+    position: relative;
+    left: 220px;
+    font-size: 15px;
+}
+
+.inf{
+    position: relative;
+    left: 330px;
+    font-size: 15px;
+}
