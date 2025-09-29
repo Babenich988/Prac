@@ -104,12 +104,6 @@ a:hover{
     font-size: 20px;  
 }
 
-.Store{
-    position: relative;
-    left: 100px;
-    top:50px;
-    font-size: 20px;  
-}
 
 /*2 страница*/
 .dekstop-2{
@@ -213,6 +207,127 @@ a:hover{
     letter-spacing: 0%;
 }
 /*4 страница*/
+
+.Store{
+    position: relative;
+    left: 100px;
+    top:50px;
+    font-size: 30px;  
+    color: white;
+    font-family: "Karla";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.dekstop-4{
+    width: 1440px;
+    height: 1024px;
+    background: rgba(213, 48, 5, 1);
+}
+
+.photo-1{
+    width: 104.31px;
+    height: 104.31px;
+    position: relative;
+}
+
+.photo-2{
+    width: 104.31px;
+    height: 104.31px;
+    position: relative;
+}
+
+.need{
+    width: 419px;
+    height: 28px;
+    position: relative;
+    top: 457px;
+    left: 35px;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: Bold;
+    font-size: 21px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+}
+
+.made{
+    width: 350px;
+    height: 110px;
+    position: relative;
+    top: 452px;
+    left: 35px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: white;
+}
+
+.take{
+    width: 440px;
+    height: 110px;
+    position: relative;
+    top: 310px;
+    left: 55px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #000000;
+    text-decoration-line: underline;
+}
+
+.mac{
+    width: 200px;
+    height: 50px;
+    position: relative;
+    top: 29px;
+    right: 108px;
+    border-radius: 50px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.win{
+    width: 200px;
+    height: 50px;
+    position: relative;
+    background-color: #000000;
+    color: white;
+    bottom: 55px;
+    left: 96px;
+    border-radius: 50px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.laptop_menu{
+    width: 885.5160522460938px;
+    height: 583.0033569335938px;
+    top: 203px;
+    left: 600px;
+}
 
 /*5 страница*/
 .dekstop-5{
