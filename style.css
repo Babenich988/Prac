@@ -104,6 +104,12 @@ a:hover{
     font-size: 20px;  
 }
 
+.Store{
+    position: relative;
+    left: 100px;
+    top: 50px;
+    font-size: 20px;  
+}
 
 /*2 страница*/
 .dekstop-2{
@@ -178,7 +184,7 @@ a:hover{
     background: linear-gradient(180deg, #D53005 0%, #000000 6.04%);
 }
 
-.About{
+.Abouts{
     position: relative;
     width: 81px;
     height: 35px;
@@ -208,7 +214,7 @@ a:hover{
 }
 /*4 страница*/
 
-.Store{
+.Stores{
     position: relative;
     left: 100px;
     top:50px;
@@ -276,7 +282,7 @@ a:hover{
     width: 440px;
     height: 110px;
     position: relative;
-    top: 310px;
+    top: 373px;
     left: 55px;
     font-family: "Montserrat";
     font-weight: 400;
@@ -294,7 +300,7 @@ a:hover{
     height: 50px;
     position: relative;
     top: 29px;
-    right: 108px;
+    right: 408px;
     border-radius: 50px;
     font-family: "Montserrat";
     font-weight: 400;
@@ -312,7 +318,7 @@ a:hover{
     background-color: #000000;
     color: white;
     bottom: 55px;
-    left: 96px;
+    right: 204px;
     border-radius: 50px;
     font-family: "Montserrat";
     font-weight: 400;
@@ -323,10 +329,90 @@ a:hover{
 }
 
 .laptop_menu{
-    width: 885.5160522460938px;
-    height: 583.0033569335938px;
-    top: 203px;
-    left: 600px;
+    width: 885px;
+    height: 583px;
+    position: absolute;
+    top: 3281px;
+    left: 403px;
+    background: linear-gradient(270deg, #484D54 0%, #343B43 100%);
+    border:30px solid black;
+    border-bottom: 20px solid rgba(74, 85, 104, 1);
+    border-radius: 20px;
+}
+
+.pro{
+    position: absolute;
+    top: 567px;
+    left: 403px;
+    color: white;
+}
+
+.keysboard{
+    width: 1168.3248291015625px;
+    height: 20.862943649291992px;
+    background: linear-gradient(0deg, #A3ACB1, #A3ACB1),
+linear-gradient(90deg, #0D1012 0%, #CAD4DB 2.95%, #242729 6.25%, #A3ACB1 13.36%, #A3ACB1 86.6%, #242729 94.19%, #CAD4DB 97.13%, #0D1012 99.64%);
+    position: relative;
+    top: 446px;
+    left: 288px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+.music_laptop{
+    width:100px;
+    height: 70px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    color: white;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+.women_foto{
+    width:785px;
+    height: 70px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    position: relative;
+    bottom:72px;
+    left: 100px;
+}
+
+.woman{
+    width: 70.95262145996094px;
+    height: 60.95262145996094px;
+    border-width: 5px;
+    border-radius: 50px;
+    position: relative;
+    left: 40px;
+    top:5px;
+}
+
+.poisk{
+    width: 100px;
+    height: 511px;
+    border-right: 2px solid black;
+    position: relative;
+    bottom: 72px;
+}
+
+.proektor{
+    width:785px;
+    height: 70px;
+    border-top: 2px solid black;
+    border-right: 25px solid black;
+    border-left: 2px solid black;
+    position: relative;
+    bottom:172px;
+    left: 100px;
 }
 
 /*5 страница*/
