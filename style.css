@@ -415,6 +415,212 @@ linear-gradient(90deg, #0D1012 0%, #CAD4DB 2.95%, #242729 6.25%, #A3ACB1 13.36%,
     left: 100px;
 }
 
+.grey_poisk{
+    width:86px;
+    height: 16px;
+    border-radius: 20px;
+    background-color: #343B43;
+    color: black;
+}
+
+.catalog_1{
+    width:94px;
+    height: 20px;
+    border-radius: 10px;
+    background: rgba(255, 0, 0, 0.2);
+    color: white;
+    position: relative;
+    top:30px;
+}
+
+.catalog_2{
+    width:94px;
+    height: 20px;
+    border-radius: 10px;
+    background: rgba(5, 255, 0, 0.2);
+    color: white;
+    position: relative;
+    top:50px;
+}
+
+.catalog_3{
+    width:94px;
+    height: 20px;
+    border-radius: 10px;
+    background: rgba(5, 0, 255, 0.2);
+    color: white;
+    position: relative;
+    top:70px;
+}
+
+.catalog_4{
+    width:94px;
+    height: 20px;
+    border-radius: 10px;
+    background: rgba(255, 230, 0, 0.2);
+    color: white;
+    position: relative;
+    top: 90px;
+}
+
+.catalog_5{
+    width:94px;
+    height: 20px;
+    border-radius: 10px;
+    background: rgba(255, 0, 199, 0.3);
+    color: white;
+    position: relative;
+    top: 130px;
+}
+
+.set-1{
+    width: 30px;
+    position: relative;
+    top: 35px;
+    left: 40px;
+}
+
+.set-2{
+    width: 30px;
+    position: relative;
+    top: 35px;
+    left: 60px;
+}
+
+.set-3{
+    width: 30px;
+    position: relative;
+    top: 35px;
+    left: 80px;
+}
+
+.polosa{
+    width: 282.8088073730469px;
+    height: 6.954314708709717px;
+    position: relative;
+    background-color: black;
+    left: 440px;
+    top: 15px;
+    border-radius: 5px;
+}
+
+.grom{
+    width: 217.90185546875px;
+    height: 5.795262336730957px;
+    position: relative;
+    background: linear-gradient(90deg, #04D425 28.48%, #471CF3 98.17%);
+    border-radius: 5px;
+}
+
+.tochka{
+    width: 11.590524673461914px;
+    height: 11.590524673461914px;
+    background: rgba(63, 50, 219, 1);
+    position: relative;
+    left:217px;
+    bottom: 4px;
+    border: 3px solid rgba(38, 42, 47, 1);
+    border-radius: 5px;
+}
+
+.pause{
+    width: 52.1573600769043px;
+    height: 52.1573600769043px;
+    position: relative;
+    background: linear-gradient(137.37deg, #D22D03 15.6%, #F6541D 82.94%);
+    border-width: 2px;
+    border-radius: 30px;
+    font-size: 16px;
+    left: 280px;
+    bottom: 20px;
+}
+
+.pause_1{
+    width: 4.3181049823760986px;
+    height: 15.590524673461914px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    left:10px;
+    top:8px;
+}
+
+.pause_2{
+    width: 4.3181049823760986px;
+    height: 15.590524673461914px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 20px;
+    bottom: 7px;
+}
+
+.back{
+    width: 52.1573600769043px;
+    height: 52.1573600769043px;
+    position: relative;
+    background: linear-gradient(137.37deg, #4E5256 15.6%, rgba(19, 23, 27, 0) 82.94%);
+    border-width: 2px;
+    border-radius: 30px;
+    font-size: 16px;
+    left: 160px;
+    bottom: 36px;
+}
+
+.up{
+    width: 52.1573600769043px;
+    height: 52.1573600769043px;
+    position: relative;
+    background: linear-gradient(137.37deg, #4E5256 15.6%, rgba(19, 23, 27, 0) 82.94%);
+    border-width: 2px;
+    border-radius: 30px;
+    font-size: 16px;
+    left: 230px;
+    bottom: 36px;
+}
+
+.str{
+    rotate: 180deg;
+}
+
+.poloska{
+    width: 606.1844482421875px;
+    height: 9.272419929504395px;
+    position: relative;
+    background-color: black;
+    left: 140px;
+    bottom: 75px;
+}
+
+.grom-2{
+    width: 217.90185546875px;
+    height: 9.272419929504395px;
+    position: relative;
+    background: linear-gradient(90deg, #D42F04 28.48%, #F3511C 98.17%);
+    position: relative;
+    left: 140px;
+    bottom: 84px;
+}
+
+.tochka-2{
+    width: 11.590524673461914px;
+    height: 11.590524673461914px;
+    background: rgba(231, 176, 40, 1);
+    position: relative;
+    left:345px;
+    bottom: 98px;
+    border: 5px solid rgba(38, 42, 47, 1);
+    border-radius: 20px;
+}
+
+.artist{
+    width:150px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    left: 350px;
+}
+
 /*5 страница*/
 .dekstop-5{
     width: 1440px;
