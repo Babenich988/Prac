@@ -626,7 +626,7 @@ linear-gradient(90deg, #0D1012 0%, #CAD4DB 2.95%, #242729 6.25%, #A3ACB1 13.36%,
     height: 410px;
     background: linear-gradient(270deg, #484D54 0%, #343B43 100%);
     position: relative;
-    bottom: 583px;
+    bottom: 573px;
     left: 103px;
 }
 
@@ -825,6 +825,27 @@ linear-gradient(90deg, #0D1012 0%, #CAD4DB 2.95%, #242729 6.25%, #A3ACB1 13.36%,
     left: 539px;
     font-size: 9px;
 }
+
+.top{
+    width: 68px;
+    height: 18px;
+    background: rgba(14, 0, 176, 0.5);
+    color: white;
+    position: relative;
+    bottom: 581px;
+    left: 375px;
+}
+
+.scroll{
+    width: 68px;
+    height: 18px;
+    background: rgba(2, 255, 73, 0.5);
+    color: white;
+        position: relative;
+    bottom: 581px;
+    left: 375px;
+}
+
 /*5 страница*/
 .dekstop-5{
     width: 1440px;
