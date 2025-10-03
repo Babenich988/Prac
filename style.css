@@ -411,7 +411,7 @@ linear-gradient(90deg, #0D1012 0%, #CAD4DB 2.95%, #242729 6.25%, #A3ACB1 13.36%,
     border-right: 25px solid black;
     border-left: 2px solid black;
     position: relative;
-    bottom:172px;
+    bottom:582px;
     left: 100px;
 }
 
@@ -621,6 +621,210 @@ linear-gradient(90deg, #0D1012 0%, #CAD4DB 2.95%, #242729 6.25%, #A3ACB1 13.36%,
     left: 350px;
 }
 
+.music_proektor_1{
+    width:781px;
+    height: 410px;
+    background: linear-gradient(270deg, #484D54 0%, #343B43 100%);
+    position: relative;
+    bottom: 583px;
+    left: 103px;
+}
+
+.music_line_1{
+    width: 104px;
+    padding: 15px;
+    position: relative;
+    left: 45px;
+    top: 50px;
+}
+
+.music_line_2{
+    width: 104px;
+    padding: 15px;
+    position: relative;
+    left: 45px;
+    top: 80px;
+}
+
+.f_1{
+    width:31px;
+    height: 12px;
+    position: relative;
+    bottom: 90px;
+    right: 630px;
+    font-size: 9px;
+}
+
+.f_2{
+    width:120px;
+    height: 12px;
+    position: relative;
+    bottom: 90px;
+    right: 520px;
+    font-size: 9px;
+}
+
+.f_3{
+    width:120px;
+    height: 12px;
+    position: relative;
+    bottom: 110PX;
+    left: 336px;
+    font-size: 9px;
+}
+
+.f_4{
+    width:120px;
+    height: 12px;
+    position: relative;
+    bottom: 110px;
+    left: 404px;
+    font-size: 9px;
+}
+
+.f_5{
+    width:120px;
+    height: 12px;
+    position: relative;
+    bottom: 110px;
+    left: 468px;
+    font-size: 9px;
+}
+
+.f_6{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 60px;
+    right: 143px;
+    font-size: 9px;
+}
+
+.f_7{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 60px;
+    right: 35px;
+    font-size: 9px;
+}
+
+.f_8{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 60px;
+    left: 73px;
+    font-size: 9px;
+}
+
+.f_9{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 60px;
+    left: 160px;
+    font-size: 9px;
+}
+
+.f_10{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 60px;
+    left: 263px;
+    font-size: 9px;
+}
+
+.f_1_1{
+    width:31px;
+    height: 12px;
+    position: relative;
+    bottom: 95px;
+    right: 353px;
+    font-size: 9px;
+}
+
+.f_2_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    bottom: 95px;
+    right: 275px;
+    font-size: 9px;
+}
+
+.f_3_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    bottom: 95PX;
+    right: 199px;
+    font-size: 9px;
+}
+
+.f_4_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    bottom: 95px;
+    right: 94px;
+    font-size: 9px;
+}
+
+.f_5_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    bottom: 95px;
+    right: 48px;
+    font-size: 9px;
+}
+
+.f_6_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 75px;
+    right: 631px;
+    font-size: 9px;
+}
+
+.f_7_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 75px;
+    right: 525px;
+    font-size: 9px;
+}
+
+.f_8_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 58px;
+    left: 336px;
+    font-size: 9px;
+}
+
+.f_9_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 58px;
+    left: 440px;
+    font-size: 9px;
+}
+
+.f_10_1{
+    width:120px;
+    height: 12px;
+    position: relative;
+    top: 58px;
+    left: 539px;
+    font-size: 9px;
+}
 /*5 страница*/
 .dekstop-5{
     width: 1440px;
